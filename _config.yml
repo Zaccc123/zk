@@ -8,7 +8,7 @@ paginate: 3
 paginate_path: "/page/:num/"
 comments: true
 
-source: source
+source: .
 destination: _site
 sass:
   sass_dir: _sass
@@ -18,13 +18,14 @@ sass:
 title: ZK - Software Craftsman
 description: "My personal blog in the world of one and zero!"
 keywords: "Zac, Kwan, software, developer, SEO, blog, web, craftsman, python, swift, docker, django"
-url: http://nandomoreira.me
+url: https://zaccc123.github.io
+baseurl: ""
 
 
-google_analytics: UA-todo-1
-repo: https://github.com/Zaccc123/zk
-disqus_shortname: "todo"
-disqus_site_shortname: "todo"
+google_analytics: UA-86547907-2
+repo: https://github.com/zaccc123.github.io
+disqus_shortname: "zac_kwan"
+disqus_site_shortname: "zaccc123"
 
 # Author settings
 author:
@@ -34,7 +35,7 @@ author:
   bio: "A good craftsman possesses a good set of tools. I am always honing my skills to create a good set of development flow to build a better product."
   thumb: /images/author.jpg
   email: zac.kwan.wh@gmail.com
-  url: https://todo/
+  url: https://zaccc123.github.io/
   github: https://github.com/Zaccc123
   linkedin: https://www.linkedin.com/in/zackwan
   stackoverflow: http://stackoverflow.com/users/6539131/zac-kwan
