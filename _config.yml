@@ -15,30 +15,29 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: ZK - Software Craftsman
+description: "My personal blog in the world of one and zero!"
+keywords: "Zac, Kwan, software, developer, SEO, blog, web, craftsman, python, swift, docker, django"
 url: http://nandomoreira.me
 
 
-google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+google_analytics: UA-todo-1
+repo: https://github.com/Zaccc123/zk
+disqus_shortname: "todo"
+disqus_site_shortname: "todo"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Zac Kwan
+  job: Software Craftsman
+  desc: "Throughout the years, I have worked as a mobile engineer(iOS), backend Engineer (python) and now a Technical Lead. I enjoy solving difficult problem with an elegant solution. Feel free to ping me for an intellectual conversation or a short coffee chat!"
+  bio: "I believe a good craftsman need to possess a good set of tools. I always like to ensure my team and me created a good set of development workflow in order to build a better product."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
-
+  email: zac.kwan.wh@gmail.com
+  url: https://todo/
+  github: https://github.com/Zaccc123
+  linkedin: https://www.linkedin.com/in/zackwan
+  stackoverflow: http://stackoverflow.com/users/6539131/zac-kwan
 # navbar pages
 navbar:
   - slug: about
