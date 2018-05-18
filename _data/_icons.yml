@@ -138,6 +138,7 @@
 - name: spotify
 - name: telegram
 - name: twitter
+- name: medium
 - name: rss
 - name: rss2
 - name: youtube
@@ -168,4 +169,3 @@
 - name: html-five2
 - name: css3
 - name: git
-

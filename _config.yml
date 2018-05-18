@@ -17,7 +17,7 @@ sass:
 # SEO settings
 title: ZK - Software Craftsman
 description: "My personal blog in the world of one and zero!"
-keywords: "Zac, Kwan, software, developer, SEO, blog, web, craftsman, python, swift, docker, django"
+keywords: "Zac, Kwan, software, developer, CI, CD, blog, web, craftsman, python, swift, docker, django"
 url: https://zaccc123.github.io
 baseurl: ""
 
@@ -30,14 +30,16 @@ disqus_site_shortname: "zaccc123"
 # Author settings
 author:
   name: Zac Kwan
-  job: Software Craftsman
-  desc: "I have worked as a mobile engineer(iOS), backend Engineer (python) and now a Technical Lead. I enjoy solving difficult problem with an elegant solution. Feel free to ping me for an intellectual conversation or a short coffee chat!"
-  bio: "A good craftsman possesses a good set of tools. I am always honing my skills to create a good set of development flow to build a better product."
+  job: Maker 👨‍💻, Full Stack Dev, Tech Lead
+  desc: "I have worked as a mobile engineer(iOS), backend Engineer (python) and now as a Technical Lead. I enjoy building my own product at night and whenever I am free."
+  bio: "I like to ensure that all my project is set up with continuous integration. Therefore, I make <a href='http://flymusca.com'>Musca - a mac taskbar app</a>  that keeps track of you Github Commit statuses."
   thumb: /images/author.jpg
   email: zac.kwan.wh@gmail.com
   url: https://zaccc123.github.io/
   github: https://github.com/Zaccc123
   linkedin: https://www.linkedin.com/in/zackwan
+  twitter: https://twitter.com/Zaccc123/
+  medium: https://medium.com/@Zaccc123
   stackoverflow: http://stackoverflow.com/users/6539131/zac-kwan
 # navbar pages
 navbar:
