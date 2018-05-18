@@ -2,11 +2,13 @@
 
 [![Build Status](https://travis-ci.org/Zaccc123/zaccc123.github.io.svg?branch=master)](https://travis-ci.org/Zaccc123/zaccc123.github.io)
 
-Hi, I'm Zac, a Software Craftsman.
+Hi, I'm Zac, a Maker 👨‍💻, Full Stack Dev, Tech Lead, Maker of http://flymusca.com
 
-A good craftsman possesses a good set of tools. I am always honing my skills to create a good set of development flow to build a better product.
+I have worked as a mobile engineer(iOS), backend Engineer (python) and now as a Technical Lead. I enjoy building my own product at night and whenever I am free.
 
-I have worked as a mobile engineer(iOS), backend Engineer (python) and now a Technical Lead. I enjoy solving difficult problem with an elegant solution. Feel free to ping me for an intellectual conversation or a short coffee chat!
+I like to ensure that all my project is set up with continuous integration. Therefore, I make a [Musca](http://flymusca.com) - a mac taskbar app that keeps track of you Github Commit statuses.
+
+You can find me on twitter [@Zaccc123](https://twitter.com/Zaccc123/)!
 
 https://zaccc123.github.io
 
@@ -24,9 +26,14 @@ $ jekyll build
 ### Previewing the site locally
 
 ```
-$ bjekyll serve
+$ jekyll serve
 # Now browse to http://localhost:4000
 ```
+
+### Editing
+
+* For new post, create a new `.md` file and save it in `_posts`
+* For other related stuff like `author` info, edit `_config.yml`
 
 ### Deployment
 
