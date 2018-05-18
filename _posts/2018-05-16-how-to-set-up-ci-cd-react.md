@@ -47,7 +47,7 @@ Then the browser should automatically open a page at http://localhost:3000/. If 
 
 Next, we need to add a little configuration to setup [CircleCI](https://circleci.com) for our project. Create a `.circleci` folder and a `config.yml` in that directory and add the following:
 
-```
+```yml
 version: 2
 jobs:
   build:
