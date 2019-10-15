@@ -131,8 +131,8 @@ We pushed the latest `master` branch to `heroku` with `git push heroku master`. 
 
 Next, we will have to navigate to the newly create app in [Heroku](https://heroku.com) Dashboard to setup automated deployment. Do the following on the dashboard:
 
-* Go to Deploy tab and Connect to the correct GitHub repo.
-* Enable Automatic deployment and check Wait for CI to pass before deploy.
+- Go to Deploy tab and Connect to the correct GitHub repo.
+- Enable Automatic deployment and check Wait for CI to pass before deploy.
 
 <img src="{{ '/images/posts/heroku-cd.png' | prepend: site.baseurl }}" alt="enable automatic deployment">
 
